@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 source_data/
-.vs_code/
+.vscode/
 *.pth
 Email.ipynb
 runs/
