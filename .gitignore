@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+source_data/
+.vs_code/
+*.pth
+Email.ipynb
+runs/
+__pycache__/
+data/
