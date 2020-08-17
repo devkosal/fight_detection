@@ -6,3 +6,4 @@ Email.ipynb
 runs/
 __pycache__/
 data/
+*.zip
